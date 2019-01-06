@@ -19,7 +19,7 @@
 <polygon fill="#cae1ff" stroke="black" points="340,-80.5 168,-80.5 168,0.5 340,0.5 340,-80.5"/>
 <text text-anchor="middle" x="254" y="-65.1" font-family="Helvetica,sans-Serif" font-size="8.00">source:syscall</text>
 <text text-anchor="middle" x="254" y="-56.1" font-family="Helvetica,sans-Serif" font-size="8.00">gid:0</text>
-<text text-anchor="middle" x="254" y="-47.1" font-family="Helvetica,sans-Serif" font-size="8.00">command line:/home/arthur/ProvMark/stage/test</text>
+<text text-anchor="middle" x="254" y="-47.1" font-family="Helvetica,sans-Serif" font-size="8.00">command line:/home/vagrant/ProvMark/stage/test</text>
 <text text-anchor="middle" x="254" y="-38.1" font-family="Helvetica,sans-Serif" font-size="8.00">uid:0</text>
 <text text-anchor="middle" x="254" y="-29.1" font-family="Helvetica,sans-Serif" font-size="8.00">egid:0</text>
 <text text-anchor="middle" x="254" y="-20.1" font-family="Helvetica,sans-Serif" font-size="8.00">name:test</text>

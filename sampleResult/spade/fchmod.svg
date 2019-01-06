@@ -20,7 +20,7 @@
 <text text-anchor="middle" x="278" y="-70.6" font-family="Helvetica,sans-Serif" font-size="8.00">permissions:0600</text>
 <text text-anchor="middle" x="278" y="-61.6" font-family="Helvetica,sans-Serif" font-size="8.00">subtype:file</text>
 <text text-anchor="middle" x="278" y="-52.6" font-family="Helvetica,sans-Serif" font-size="8.00">epoch:0</text>
-<text text-anchor="middle" x="278" y="-43.6" font-family="Helvetica,sans-Serif" font-size="8.00">path:/home/arthur/ProvMark/stage/test.txt</text>
+<text text-anchor="middle" x="278" y="-43.6" font-family="Helvetica,sans-Serif" font-size="8.00">path:/home/vagrant/ProvMark/stage/test.txt</text>
 <text text-anchor="middle" x="278" y="-34.6" font-family="Helvetica,sans-Serif" font-size="8.00">version:0</text>
 <text text-anchor="middle" x="278" y="-25.6" font-family="Helvetica,sans-Serif" font-size="8.00">source:syscall</text>
 <text text-anchor="middle" x="278" y="-16.6" font-family="Helvetica,sans-Serif" font-size="8.00">type:Artifact</text>

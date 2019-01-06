@@ -17,7 +17,7 @@
 <!-- 192284cafa68e10174d9d2722c36b11e -->
 <g id="node2" class="node"><title>192284cafa68e10174d9d2722c36b11e</title>
 <ellipse fill="#fff68f" stroke="black" cx="106" cy="-38" rx="105.218" ry="38.3684"/>
-<text text-anchor="middle" x="106" y="-58.6" font-family="Helvetica,sans-Serif" font-size="8.00">path:/home/arthur/ProvMark/stage/test.txt</text>
+<text text-anchor="middle" x="106" y="-58.6" font-family="Helvetica,sans-Serif" font-size="8.00">path:/home/vagrant/ProvMark/stage/test.txt</text>
 <text text-anchor="middle" x="106" y="-49.6" font-family="Helvetica,sans-Serif" font-size="8.00">subtype:file</text>
 <text text-anchor="middle" x="106" y="-40.6" font-family="Helvetica,sans-Serif" font-size="8.00">epoch:0</text>
 <text text-anchor="middle" x="106" y="-31.6" font-family="Helvetica,sans-Serif" font-size="8.00">source:syscall</text>
@@ -35,7 +35,7 @@
 <!-- 453c58356045905d20ef04da839e336c -->
 <g id="node3" class="node"><title>453c58356045905d20ef04da839e336c</title>
 <ellipse fill="#fff68f" stroke="black" cx="640" cy="-38" rx="120.417" ry="38.3684"/>
-<text text-anchor="middle" x="640" y="-58.6" font-family="Helvetica,sans-Serif" font-size="8.00">path:/home/arthur/ProvMark/stage/linkat&#45;test.txt</text>
+<text text-anchor="middle" x="640" y="-58.6" font-family="Helvetica,sans-Serif" font-size="8.00">path:/home/vagrant/ProvMark/stage/linkat&#45;test.txt</text>
 <text text-anchor="middle" x="640" y="-49.6" font-family="Helvetica,sans-Serif" font-size="8.00">subtype:file</text>
 <text text-anchor="middle" x="640" y="-40.6" font-family="Helvetica,sans-Serif" font-size="8.00">epoch:0</text>
 <text text-anchor="middle" x="640" y="-31.6" font-family="Helvetica,sans-Serif" font-size="8.00">source:syscall</text>

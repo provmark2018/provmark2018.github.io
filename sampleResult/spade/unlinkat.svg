@@ -17,7 +17,7 @@
 <!-- 0e54fd3cceab3c3a9e5b0bd5704afd28 -->
 <g id="node2" class="node"><title>0e54fd3cceab3c3a9e5b0bd5704afd28</title>
 <ellipse fill="#fff68f" stroke="black" cx="292" cy="-38" rx="120.417" ry="38.3684"/>
-<text text-anchor="middle" x="292" y="-58.6" font-family="Helvetica,sans-Serif" font-size="8.00">path:/home/arthur/ProvMark/stage/linkat&#45;test.txt</text>
+<text text-anchor="middle" x="292" y="-58.6" font-family="Helvetica,sans-Serif" font-size="8.00">path:/home/vagrant/ProvMark/stage/linkat&#45;test.txt</text>
 <text text-anchor="middle" x="292" y="-49.6" font-family="Helvetica,sans-Serif" font-size="8.00">subtype:file</text>
 <text text-anchor="middle" x="292" y="-40.6" font-family="Helvetica,sans-Serif" font-size="8.00">epoch:0</text>
 <text text-anchor="middle" x="292" y="-31.6" font-family="Helvetica,sans-Serif" font-size="8.00">source:syscall</text>

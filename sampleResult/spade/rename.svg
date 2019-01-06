@@ -12,7 +12,7 @@
 <!-- n21 -->
 <g id="node1" class="node"><title>n21</title>
 <ellipse fill="#fff68f" stroke="black" cx="106" cy="-50" rx="105.218" ry="50.8235"/>
-<text text-anchor="middle" x="106" y="-70.6" font-family="Helvetica,sans-Serif" font-size="8.00">path:/home/arthur/ProvMark/stage/test.txt</text>
+<text text-anchor="middle" x="106" y="-70.6" font-family="Helvetica,sans-Serif" font-size="8.00">path:/home/vagrant/ProvMark/stage/test.txt</text>
 <text text-anchor="middle" x="106" y="-61.6" font-family="Helvetica,sans-Serif" font-size="8.00">subtype:file</text>
 <text text-anchor="middle" x="106" y="-52.6" font-family="Helvetica,sans-Serif" font-size="8.00">version:0</text>
 <text text-anchor="middle" x="106" y="-43.6" font-family="Helvetica,sans-Serif" font-size="8.00">permissions:0644</text>
@@ -23,7 +23,7 @@
 <!-- n22 -->
 <g id="node2" class="node"><title>n22</title>
 <ellipse fill="#fff68f" stroke="black" cx="674" cy="-51" rx="127.059" ry="50.8235"/>
-<text text-anchor="middle" x="674" y="-71.6" font-family="Helvetica,sans-Serif" font-size="8.00">path:/home/arthur/ProvMark/stage/rename&#45;test.txt</text>
+<text text-anchor="middle" x="674" y="-71.6" font-family="Helvetica,sans-Serif" font-size="8.00">path:/home/vagrant/ProvMark/stage/rename&#45;test.txt</text>
 <text text-anchor="middle" x="674" y="-62.6" font-family="Helvetica,sans-Serif" font-size="8.00">subtype:file</text>
 <text text-anchor="middle" x="674" y="-53.6" font-family="Helvetica,sans-Serif" font-size="8.00">version:0</text>
 <text text-anchor="middle" x="674" y="-44.6" font-family="Helvetica,sans-Serif" font-size="8.00">permissions:0644</text>

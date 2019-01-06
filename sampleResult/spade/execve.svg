@@ -21,10 +21,10 @@
 <text text-anchor="middle" x="348" y="-95.6" font-family="Helvetica,sans-Serif" font-size="8.00">gid:0</text>
 <text text-anchor="middle" x="348" y="-86.6" font-family="Helvetica,sans-Serif" font-size="8.00">egid:0</text>
 <text text-anchor="middle" x="348" y="-77.6" font-family="Helvetica,sans-Serif" font-size="8.00">euid:1000</text>
-<text text-anchor="middle" x="348" y="-68.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:tmp</text>
+<text text-anchor="middle" x="348" y="-68.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:test</text>
 <text text-anchor="middle" x="348" y="-59.6" font-family="Helvetica,sans-Serif" font-size="8.00">source:syscall</text>
 <text text-anchor="middle" x="348" y="-50.6" font-family="Helvetica,sans-Serif" font-size="8.00">type:Process</text>
-<text text-anchor="middle" x="348" y="-41.6" font-family="Helvetica,sans-Serif" font-size="8.00">commandline:/home/arthur/ProvMark/stage/tmp</text>
+<text text-anchor="middle" x="348" y="-41.6" font-family="Helvetica,sans-Serif" font-size="8.00">commandline:/home/vagrant/ProvMark/stage/test</text>
 </g>
 <!-- afb968c379455f1479eac6728a791225&#45;&gt;58df28bd737274e0de38ffcd43ea4a37 -->
 <g id="edge1" class="edge"><title>afb968c379455f1479eac6728a791225&#45;&gt;58df28bd737274e0de38ffcd43ea4a37</title>
@@ -37,7 +37,7 @@
 <!-- a1d08988c6fdfd01860792c5865bf2bc -->
 <g id="node3" class="node"><title>a1d08988c6fdfd01860792c5865bf2bc</title>
 <ellipse fill="#fff68f" stroke="black" cx="74" cy="-38" rx="74.4932" ry="38.3684"/>
-<text text-anchor="middle" x="74" y="-58.6" font-family="Helvetica,sans-Serif" font-size="8.00">path:/home/arthur/binary/tmp</text>
+<text text-anchor="middle" x="74" y="-58.6" font-family="Helvetica,sans-Serif" font-size="8.00">path:/home/vagrant/ProvMark/stage/tmp</text>
 <text text-anchor="middle" x="74" y="-49.6" font-family="Helvetica,sans-Serif" font-size="8.00">subtype:file</text>
 <text text-anchor="middle" x="74" y="-40.6" font-family="Helvetica,sans-Serif" font-size="8.00">epoch:0</text>
 <text text-anchor="middle" x="74" y="-31.6" font-family="Helvetica,sans-Serif" font-size="8.00">source:syscall</text>
