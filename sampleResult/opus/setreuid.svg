@@ -13,7 +13,7 @@
 <g id="node1" class="node"><title>n82</title>
 <polygon fill="#cae1ff" stroke="black" points="100,-188.5 0,-188.5 0,-125.5 100,-125.5 100,-188.5"/>
 <text text-anchor="middle" x="50" y="-173.1" font-family="Helvetica,sans-Serif" font-size="8.00">ret:0</text>
-<text text-anchor="middle" x="50" y="-164.1" font-family="Helvetica,sans-Serif" font-size="8.00">arg_values:[&#39;arthur&#39;, &#39;arthur&#39;]</text>
+<text text-anchor="middle" x="50" y="-164.1" font-family="Helvetica,sans-Serif" font-size="8.00">arg_values:[&#39;vagrant&#39;, &#39;vagrant&#39;]</text>
 <text text-anchor="middle" x="50" y="-155.1" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:80</text>
 <text text-anchor="middle" x="50" y="-146.1" font-family="Helvetica,sans-Serif" font-size="8.00">fn:setreuid</text>
 <text text-anchor="middle" x="50" y="-137.1" font-family="Helvetica,sans-Serif" font-size="8.00">arg_keys:[&#39;ruid&#39;, &#39;euid&#39;]</text>
@@ -23,7 +23,7 @@
 <g id="node2" class="node"><title>n80</title>
 <polygon fill="#cae1ff" stroke="black" points="77,-107.5 23,-107.5 23,-62.5 77,-62.5 77,-107.5"/>
 <text text-anchor="middle" x="50" y="-92.1" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:78</text>
-<text text-anchor="middle" x="50" y="-83.1" font-family="Helvetica,sans-Serif" font-size="8.00">value:arthur</text>
+<text text-anchor="middle" x="50" y="-83.1" font-family="Helvetica,sans-Serif" font-size="8.00">value:vagrant</text>
 <text text-anchor="middle" x="50" y="-74.1" font-family="Helvetica,sans-Serif" font-size="8.00">name:ruid</text>
 <text text-anchor="middle" x="50" y="-65.1" font-family="Helvetica,sans-Serif" font-size="8.00">type:1</text>
 </g>
@@ -31,7 +31,7 @@
 <g id="node3" class="node"><title>n81</title>
 <polygon fill="#cae1ff" stroke="black" points="77,-44.5 23,-44.5 23,0.5 77,0.5 77,-44.5"/>
 <text text-anchor="middle" x="50" y="-29.1" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:79</text>
-<text text-anchor="middle" x="50" y="-20.1" font-family="Helvetica,sans-Serif" font-size="8.00">value:arthur</text>
+<text text-anchor="middle" x="50" y="-20.1" font-family="Helvetica,sans-Serif" font-size="8.00">value:vagrant</text>
 <text text-anchor="middle" x="50" y="-11.1" font-family="Helvetica,sans-Serif" font-size="8.00">name:euid</text>
 <text text-anchor="middle" x="50" y="-2.1" font-family="Helvetica,sans-Serif" font-size="8.00">type:1</text>
 </g>

@@ -21,20 +21,20 @@
 <text text-anchor="middle" x="113" y="-100.1" font-family="Helvetica,sans-Serif" font-size="8.00">arg_keys:[&#39;dirfd&#39;, &#39;pathname&#39;, &#39;flags&#39;]</text>
 <text text-anchor="middle" x="113" y="-91.1" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:85</text>
 <text text-anchor="middle" x="113" y="-82.1" font-family="Helvetica,sans-Serif" font-size="8.00">ret:0</text>
-<text text-anchor="middle" x="113" y="-73.1" font-family="Helvetica,sans-Serif" font-size="8.00">arg_values:[&#39;3&#39;, &#39;/home/arthur/ProvMark/stage/linkat&#45;test.txt&#39;, &#39;0&#39;]</text>
+<text text-anchor="middle" x="113" y="-73.1" font-family="Helvetica,sans-Serif" font-size="8.00">arg_values:[&#39;3&#39;, &#39;/home/vagrant/ProvMark/stage/linkat&#45;test.txt&#39;, &#39;0&#39;]</text>
 <text text-anchor="middle" x="113" y="-64.1" font-family="Helvetica,sans-Serif" font-size="8.00">type:5</text>
 </g>
 <!-- n85 -->
 <g id="node3" class="node"><title>n85</title>
 <polygon fill="#cae1ff" stroke="black" points="908,-111 726,-111 726,-75 908,-75 908,-111"/>
-<text text-anchor="middle" x="817" y="-95.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/arthur/ProvMark/stage/linkat&#45;test.txt&#39;]</text>
+<text text-anchor="middle" x="817" y="-95.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/vagrant/ProvMark/stage/linkat&#45;test.txt&#39;]</text>
 <text text-anchor="middle" x="817" y="-86.6" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:83</text>
 <text text-anchor="middle" x="817" y="-77.6" font-family="Helvetica,sans-Serif" font-size="8.00">type:2</text>
 </g>
 <!-- n84 -->
 <g id="node4" class="node"><title>n84</title>
 <polygon fill="#cae1ff" stroke="black" points="638,-111 456,-111 456,-75 638,-75 638,-111"/>
-<text text-anchor="middle" x="547" y="-95.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/arthur/ProvMark/stage/linkat&#45;test.txt&#39;]</text>
+<text text-anchor="middle" x="547" y="-95.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/vagrant/ProvMark/stage/linkat&#45;test.txt&#39;]</text>
 <text text-anchor="middle" x="547" y="-86.6" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:82</text>
 <text text-anchor="middle" x="547" y="-77.6" font-family="Helvetica,sans-Serif" font-size="8.00">type:2</text>
 </g>

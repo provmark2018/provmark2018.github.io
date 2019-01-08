@@ -23,7 +23,7 @@
 <text text-anchor="middle" x="96" y="-47.1" font-family="Helvetica,sans-Serif" font-size="8.00">ret:0</text>
 <text text-anchor="middle" x="96" y="-38.1" font-family="Helvetica,sans-Serif" font-size="8.00">fn:truncate</text>
 <text text-anchor="middle" x="96" y="-29.1" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:82</text>
-<text text-anchor="middle" x="96" y="-20.1" font-family="Helvetica,sans-Serif" font-size="8.00">arg_values:[&#39;/home/arthur/ProvMark/stage/test.txt&#39;, &#39;0&#39;]</text>
+<text text-anchor="middle" x="96" y="-20.1" font-family="Helvetica,sans-Serif" font-size="8.00">arg_values:[&#39;/home/vagrant/ProvMark/stage/test.txt&#39;, &#39;0&#39;]</text>
 <text text-anchor="middle" x="96" y="-11.1" font-family="Helvetica,sans-Serif" font-size="8.00">arg_keys:[&#39;path&#39;, &#39;length&#39;]</text>
 <text text-anchor="middle" x="96" y="-2.1" font-family="Helvetica,sans-Serif" font-size="8.00">type:5</text>
 </g>
@@ -49,14 +49,14 @@
 <!-- n82 -->
 <g id="node2" class="node"><title>n82</title>
 <polygon fill="#cae1ff" stroke="black" points="833.5,-49 672.5,-49 672.5,-13 833.5,-13 833.5,-49"/>
-<text text-anchor="middle" x="753" y="-33.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/arthur/ProvMark/stage/test.txt&#39;]</text>
+<text text-anchor="middle" x="753" y="-33.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/vagrant/ProvMark/stage/test.txt&#39;]</text>
 <text text-anchor="middle" x="753" y="-24.6" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:80</text>
 <text text-anchor="middle" x="753" y="-15.6" font-family="Helvetica,sans-Serif" font-size="8.00">type:2</text>
 </g>
 <!-- n81 -->
 <g id="node5" class="node"><title>n81</title>
 <polygon fill="#cae1ff" stroke="black" points="583.5,-49 422.5,-49 422.5,-13 583.5,-13 583.5,-49"/>
-<text text-anchor="middle" x="503" y="-33.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/arthur/ProvMark/stage/test.txt&#39;]</text>
+<text text-anchor="middle" x="503" y="-33.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/vagrant/ProvMark/stage/test.txt&#39;]</text>
 <text text-anchor="middle" x="503" y="-24.6" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:79</text>
 <text text-anchor="middle" x="503" y="-15.6" font-family="Helvetica,sans-Serif" font-size="8.00">type:2</text>
 </g>

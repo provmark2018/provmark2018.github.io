@@ -26,7 +26,7 @@
 <text text-anchor="middle" x="102" y="-38.1" font-family="Helvetica,sans-Serif" font-size="8.00">fn:open</text>
 <text text-anchor="middle" x="102" y="-29.1" font-family="Helvetica,sans-Serif" font-size="8.00">arg_keys:[&#39;pathname&#39;, &#39;flags&#39;, &#39;mode&#39;]</text>
 <text text-anchor="middle" x="102" y="-20.1" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:80</text>
-<text text-anchor="middle" x="102" y="-11.1" font-family="Helvetica,sans-Serif" font-size="8.00">arg_values:[&#39;/home/arthur/ProvMark/stage/test.txt&#39;, &#39;2&#39;, &#39;0&#39;]</text>
+<text text-anchor="middle" x="102" y="-11.1" font-family="Helvetica,sans-Serif" font-size="8.00">arg_values:[&#39;/home/vagrant/ProvMark/stage/test.txt&#39;, &#39;2&#39;, &#39;0&#39;]</text>
 <text text-anchor="middle" x="102" y="-2.1" font-family="Helvetica,sans-Serif" font-size="8.00">type:5</text>
 </g>
 <!-- n85&#45;&gt;n82 -->

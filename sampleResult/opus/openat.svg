@@ -22,7 +22,7 @@
 <polygon fill="#cae1ff" stroke="black" points="247.5,-62.5 0.5,-62.5 0.5,0.5 247.5,0.5 247.5,-62.5"/>
 <text text-anchor="middle" x="124" y="-47.1" font-family="Helvetica,sans-Serif" font-size="8.00">arg_keys:[&#39;dirfd&#39;, &#39;pathname&#39;, &#39;flags&#39;, &#39;mode&#39;, &#39;file_path&#39;]</text>
 <text text-anchor="middle" x="124" y="-38.1" font-family="Helvetica,sans-Serif" font-size="8.00">ret:4</text>
-<text text-anchor="middle" x="124" y="-29.1" font-family="Helvetica,sans-Serif" font-size="8.00">arg_values:[&#39;3&#39;, &#39;test.txt&#39;, &#39;2&#39;, &#39;0&#39;, &#39;/home/arthur/ProvMark/stage/test.txt&#39;]</text>
+<text text-anchor="middle" x="124" y="-29.1" font-family="Helvetica,sans-Serif" font-size="8.00">arg_values:[&#39;3&#39;, &#39;test.txt&#39;, &#39;2&#39;, &#39;0&#39;, &#39;/home/vagrant/ProvMark/stage/test.txt&#39;]</text>
 <text text-anchor="middle" x="124" y="-20.1" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:83</text>
 <text text-anchor="middle" x="124" y="-11.1" font-family="Helvetica,sans-Serif" font-size="8.00">fn:openat</text>
 <text text-anchor="middle" x="124" y="-2.1" font-family="Helvetica,sans-Serif" font-size="8.00">type:5</text>
@@ -71,7 +71,7 @@
 <!-- n84 -->
 <g id="node4" class="node"><title>n84</title>
 <polygon fill="#cae1ff" stroke="black" points="639.5,-49 478.5,-49 478.5,-13 639.5,-13 639.5,-49"/>
-<text text-anchor="middle" x="559" y="-33.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/arthur/ProvMark/stage/test.txt&#39;]</text>
+<text text-anchor="middle" x="559" y="-33.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/vagrant/ProvMark/stage/test.txt&#39;]</text>
 <text text-anchor="middle" x="559" y="-24.6" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:82</text>
 <text text-anchor="middle" x="559" y="-15.6" font-family="Helvetica,sans-Serif" font-size="8.00">type:2</text>
 </g>
@@ -85,7 +85,7 @@
 <!-- n89 -->
 <g id="node6" class="node"><title>n89</title>
 <polygon fill="#cae1ff" stroke="black" points="889.5,-49 728.5,-49 728.5,-13 889.5,-13 889.5,-49"/>
-<text text-anchor="middle" x="809" y="-33.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/arthur/ProvMark/stage/test.txt&#39;]</text>
+<text text-anchor="middle" x="809" y="-33.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/vagrant/ProvMark/stage/test.txt&#39;]</text>
 <text text-anchor="middle" x="809" y="-24.6" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:87</text>
 <text text-anchor="middle" x="809" y="-15.6" font-family="Helvetica,sans-Serif" font-size="8.00">type:2</text>
 </g>

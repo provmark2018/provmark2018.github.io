@@ -18,14 +18,14 @@
 <g id="node2" class="node"><title>n82</title>
 <polygon fill="#cae1ff" stroke="black" points="863.5,-111 688.5,-111 688.5,-75 863.5,-75 863.5,-111"/>
 <text text-anchor="middle" x="776" y="-95.6" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:80</text>
-<text text-anchor="middle" x="776" y="-86.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/arthur/ProvMark/stage/link&#45;test.txt&#39;]</text>
+<text text-anchor="middle" x="776" y="-86.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/vagrant/ProvMark/stage/link&#45;test.txt&#39;]</text>
 <text text-anchor="middle" x="776" y="-77.6" font-family="Helvetica,sans-Serif" font-size="8.00">type:2</text>
 </g>
 <!-- n81 -->
 <g id="node4" class="node"><title>n81</title>
 <polygon fill="#cae1ff" stroke="black" points="599.5,-111 424.5,-111 424.5,-75 599.5,-75 599.5,-111"/>
 <text text-anchor="middle" x="512" y="-95.6" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:79</text>
-<text text-anchor="middle" x="512" y="-86.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/arthur/ProvMark/stage/link&#45;test.txt&#39;]</text>
+<text text-anchor="middle" x="512" y="-86.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/vagrant/ProvMark/stage/link&#45;test.txt&#39;]</text>
 <text text-anchor="middle" x="512" y="-77.6" font-family="Helvetica,sans-Serif" font-size="8.00">type:2</text>
 </g>
 <!-- n82&#45;&gt;n81 -->
@@ -53,7 +53,7 @@
 <!-- n84 -->
 <g id="node6" class="node"><title>n84</title>
 <polygon fill="#cae1ff" stroke="black" points="194,-124.5 1.42109e-14,-124.5 1.42109e-14,-61.5 194,-61.5 194,-124.5"/>
-<text text-anchor="middle" x="97" y="-109.1" font-family="Helvetica,sans-Serif" font-size="8.00">arg_values:[&#39;/home/arthur/ProvMark/stage/link&#45;test.txt&#39;]</text>
+<text text-anchor="middle" x="97" y="-109.1" font-family="Helvetica,sans-Serif" font-size="8.00">arg_values:[&#39;/home/vagrant/ProvMark/stage/link&#45;test.txt&#39;]</text>
 <text text-anchor="middle" x="97" y="-100.1" font-family="Helvetica,sans-Serif" font-size="8.00">arg_keys:[&#39;pathname&#39;]</text>
 <text text-anchor="middle" x="97" y="-91.1" font-family="Helvetica,sans-Serif" font-size="8.00">fn:unlink</text>
 <text text-anchor="middle" x="97" y="-82.1" font-family="Helvetica,sans-Serif" font-size="8.00">ret:0</text>

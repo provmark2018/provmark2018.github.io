@@ -13,7 +13,7 @@
 <g id="node1" class="node"><title>n93</title>
 <polygon fill="#cae1ff" stroke="black" points="355.5,-234.867 0.5,-234.867 0.5,-171.867 355.5,-171.867 355.5,-234.867"/>
 <text text-anchor="middle" x="178" y="-219.467" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:91</text>
-<text text-anchor="middle" x="178" y="-210.467" font-family="Helvetica,sans-Serif" font-size="8.00">arg_values:[&#39;/home/arthur/ProvMark/stage/test.txt&#39;, &#39;/home/arthur/ProvMark/stage/renameat&#45;test.txt&#39;]</text>
+<text text-anchor="middle" x="178" y="-210.467" font-family="Helvetica,sans-Serif" font-size="8.00">arg_values:[&#39;/home/vagrant/ProvMark/stage/test.txt&#39;, &#39;/home/vagrant/ProvMark/stage/renameat&#45;test.txt&#39;]</text>
 <text text-anchor="middle" x="178" y="-201.467" font-family="Helvetica,sans-Serif" font-size="8.00">fn:renameat</text>
 <text text-anchor="middle" x="178" y="-192.467" font-family="Helvetica,sans-Serif" font-size="8.00">ret:0</text>
 <text text-anchor="middle" x="178" y="-183.467" font-family="Helvetica,sans-Serif" font-size="8.00">arg_keys:[&#39;oldpath&#39;, &#39;newpath&#39;]</text>
@@ -23,7 +23,7 @@
 <g id="node2" class="node"><title>n85</title>
 <polygon fill="#cae1ff" stroke="black" points="785.5,-271.367 586.5,-271.367 586.5,-235.367 785.5,-235.367 785.5,-271.367"/>
 <text text-anchor="middle" x="686" y="-255.967" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:83</text>
-<text text-anchor="middle" x="686" y="-246.967" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/arthur/ProvMark/stage/renameat&#45;test.txt&#39;]</text>
+<text text-anchor="middle" x="686" y="-246.967" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/vagrant/ProvMark/stage/renameat&#45;test.txt&#39;]</text>
 <text text-anchor="middle" x="686" y="-237.967" font-family="Helvetica,sans-Serif" font-size="8.00">type:2</text>
 </g>
 <!-- n83 -->
@@ -80,14 +80,14 @@
 <g id="node4" class="node"><title>n92</title>
 <polygon fill="#cae1ff" stroke="black" points="1906.5,-165.367 1745.5,-165.367 1745.5,-129.367 1906.5,-129.367 1906.5,-165.367"/>
 <text text-anchor="middle" x="1826" y="-149.967" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:90</text>
-<text text-anchor="middle" x="1826" y="-140.967" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/arthur/ProvMark/stage/test.txt&#39;]</text>
+<text text-anchor="middle" x="1826" y="-140.967" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/vagrant/ProvMark/stage/test.txt&#39;]</text>
 <text text-anchor="middle" x="1826" y="-131.967" font-family="Helvetica,sans-Serif" font-size="8.00">type:2</text>
 </g>
 <!-- n89 -->
 <g id="node8" class="node"><title>n89</title>
 <polygon fill="#cae1ff" stroke="black" points="1637.5,-138.367 1300.5,-138.367 1300.5,-102.367 1637.5,-102.367 1637.5,-138.367"/>
 <text text-anchor="middle" x="1469" y="-122.967" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:87</text>
-<text text-anchor="middle" x="1469" y="-113.967" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/arthur/ProvMark/stage/test.txt&#39;, &#39;/home/arthur/ProvMark/stage/renameat&#45;test.txt&#39;]</text>
+<text text-anchor="middle" x="1469" y="-113.967" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/vagrant/ProvMark/stage/test.txt&#39;, &#39;/home/vagrant/ProvMark/stage/renameat&#45;test.txt&#39;]</text>
 <text text-anchor="middle" x="1469" y="-104.967" font-family="Helvetica,sans-Serif" font-size="8.00">type:2</text>
 </g>
 <!-- n92&#45;&gt;n89 -->
@@ -130,7 +130,7 @@
 <g id="node7" class="node"><title>n86</title>
 <polygon fill="#cae1ff" stroke="black" points="1211.5,-217.367 874.5,-217.367 874.5,-181.367 1211.5,-181.367 1211.5,-217.367"/>
 <text text-anchor="middle" x="1043" y="-201.967" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:84</text>
-<text text-anchor="middle" x="1043" y="-192.967" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/arthur/ProvMark/stage/test.txt&#39;, &#39;/home/arthur/ProvMark/stage/renameat&#45;test.txt&#39;]</text>
+<text text-anchor="middle" x="1043" y="-192.967" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/vagrant/ProvMark/stage/test.txt&#39;, &#39;/home/vagrant/ProvMark/stage/renameat&#45;test.txt&#39;]</text>
 <text text-anchor="middle" x="1043" y="-183.967" font-family="Helvetica,sans-Serif" font-size="8.00">type:2</text>
 </g>
 <!-- n86&#45;&gt;n85 -->
@@ -144,7 +144,7 @@
 <g id="node11" class="node"><title>n84</title>
 <polygon fill="#cae1ff" stroke="black" points="766.5,-217.367 605.5,-217.367 605.5,-181.367 766.5,-181.367 766.5,-217.367"/>
 <text text-anchor="middle" x="686" y="-201.967" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:82</text>
-<text text-anchor="middle" x="686" y="-192.967" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/arthur/ProvMark/stage/test.txt&#39;]</text>
+<text text-anchor="middle" x="686" y="-192.967" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/vagrant/ProvMark/stage/test.txt&#39;]</text>
 <text text-anchor="middle" x="686" y="-183.967" font-family="Helvetica,sans-Serif" font-size="8.00">type:2</text>
 </g>
 <!-- n86&#45;&gt;n84 -->
@@ -172,7 +172,7 @@
 <g id="node9" class="node"><title>n90</title>
 <polygon fill="#cae1ff" stroke="black" points="1925.5,-111.367 1726.5,-111.367 1726.5,-75.3666 1925.5,-75.3666 1925.5,-111.367"/>
 <text text-anchor="middle" x="1826" y="-95.9666" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:88</text>
-<text text-anchor="middle" x="1826" y="-86.9666" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/arthur/ProvMark/stage/renameat&#45;test.txt&#39;]</text>
+<text text-anchor="middle" x="1826" y="-86.9666" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/vagrant/ProvMark/stage/renameat&#45;test.txt&#39;]</text>
 <text text-anchor="middle" x="1826" y="-77.9666" font-family="Helvetica,sans-Serif" font-size="8.00">type:2</text>
 </g>
 <!-- n90&#45;&gt;n89 -->

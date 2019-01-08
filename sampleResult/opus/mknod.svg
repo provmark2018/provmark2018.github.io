@@ -13,7 +13,7 @@
 <g id="node1" class="node"><title>n81</title>
 <polygon fill="#cae1ff" stroke="black" points="632,-111 456,-111 456,-75 632,-75 632,-111"/>
 <text text-anchor="middle" x="544" y="-95.6" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:79</text>
-<text text-anchor="middle" x="544" y="-86.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/arthur/ProvMark/stage/newtest.txt&#39;]</text>
+<text text-anchor="middle" x="544" y="-86.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/vagrant/ProvMark/stage/newtest.txt&#39;]</text>
 <text text-anchor="middle" x="544" y="-77.6" font-family="Helvetica,sans-Serif" font-size="8.00">type:2</text>
 </g>
 <!-- n80 -->
@@ -38,7 +38,7 @@
 <text text-anchor="middle" x="113" y="-100.1" font-family="Helvetica,sans-Serif" font-size="8.00">ret:0</text>
 <text text-anchor="middle" x="113" y="-91.1" font-family="Helvetica,sans-Serif" font-size="8.00">arg_keys:[&#39;pathname&#39;, &#39;mode&#39;]</text>
 <text text-anchor="middle" x="113" y="-82.1" font-family="Helvetica,sans-Serif" font-size="8.00">fn:__xmknod</text>
-<text text-anchor="middle" x="113" y="-73.1" font-family="Helvetica,sans-Serif" font-size="8.00">arg_values:[&#39;/home/arthur/ProvMark/stage/newtest.txt&#39;, &#39;33252&#39;]</text>
+<text text-anchor="middle" x="113" y="-73.1" font-family="Helvetica,sans-Serif" font-size="8.00">arg_values:[&#39;/home/vagrant/ProvMark/stage/newtest.txt&#39;, &#39;33252&#39;]</text>
 <text text-anchor="middle" x="113" y="-64.1" font-family="Helvetica,sans-Serif" font-size="8.00">type:5</text>
 </g>
 <!-- n80&#45;&gt;n84 -->
@@ -64,7 +64,7 @@
 <g id="node5" class="node"><title>n82</title>
 <polygon fill="#cae1ff" stroke="black" points="896,-111 720,-111 720,-75 896,-75 896,-111"/>
 <text text-anchor="middle" x="808" y="-95.6" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:80</text>
-<text text-anchor="middle" x="808" y="-86.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/arthur/ProvMark/stage/newtest.txt&#39;]</text>
+<text text-anchor="middle" x="808" y="-86.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/vagrant/ProvMark/stage/newtest.txt&#39;]</text>
 <text text-anchor="middle" x="808" y="-77.6" font-family="Helvetica,sans-Serif" font-size="8.00">type:2</text>
 </g>
 <!-- n82&#45;&gt;n81 -->

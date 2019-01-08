@@ -12,14 +12,14 @@
 <!-- n85 -->
 <g id="node1" class="node"><title>n85</title>
 <polygon fill="#cae1ff" stroke="black" points="865.5,-112 704.5,-112 704.5,-76 865.5,-76 865.5,-112"/>
-<text text-anchor="middle" x="785" y="-96.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/arthur/ProvMark/stage/test.txt&#39;]</text>
+<text text-anchor="middle" x="785" y="-96.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/vagrant/ProvMark/stage/test.txt&#39;]</text>
 <text text-anchor="middle" x="785" y="-87.6" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:83</text>
 <text text-anchor="middle" x="785" y="-78.6" font-family="Helvetica,sans-Serif" font-size="8.00">type:2</text>
 </g>
 <!-- n84 -->
 <g id="node5" class="node"><title>n84</title>
 <polygon fill="#cae1ff" stroke="black" points="615.5,-112 454.5,-112 454.5,-76 615.5,-76 615.5,-112"/>
-<text text-anchor="middle" x="535" y="-96.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/arthur/ProvMark/stage/test.txt&#39;]</text>
+<text text-anchor="middle" x="535" y="-96.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/vagrant/ProvMark/stage/test.txt&#39;]</text>
 <text text-anchor="middle" x="535" y="-87.6" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:82</text>
 <text text-anchor="middle" x="535" y="-78.6" font-family="Helvetica,sans-Serif" font-size="8.00">type:2</text>
 </g>
@@ -42,7 +42,7 @@
 <text text-anchor="middle" x="112" y="-101.1" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:85</text>
 <text text-anchor="middle" x="112" y="-92.1" font-family="Helvetica,sans-Serif" font-size="8.00">fn:symlinkat</text>
 <text text-anchor="middle" x="112" y="-83.1" font-family="Helvetica,sans-Serif" font-size="8.00">arg_keys:[&#39;oldpath&#39;, &#39;newdirfd&#39;, &#39;newpath&#39;]</text>
-<text text-anchor="middle" x="112" y="-74.1" font-family="Helvetica,sans-Serif" font-size="8.00">arg_values:[&#39;test.txt&#39;, &#39;3&#39;, &#39;/home/arthur/ProvMark/stage/test.txt&#39;]</text>
+<text text-anchor="middle" x="112" y="-74.1" font-family="Helvetica,sans-Serif" font-size="8.00">arg_values:[&#39;test.txt&#39;, &#39;3&#39;, &#39;/home/vagrant/ProvMark/stage/test.txt&#39;]</text>
 <text text-anchor="middle" x="112" y="-65.1" font-family="Helvetica,sans-Serif" font-size="8.00">type:5</text>
 </g>
 <!-- n83 -->

@@ -15,21 +15,21 @@
 <text text-anchor="middle" x="173" y="-47.1" font-family="Helvetica,sans-Serif" font-size="8.00">ret:0</text>
 <text text-anchor="middle" x="173" y="-38.1" font-family="Helvetica,sans-Serif" font-size="8.00">arg_keys:[&#39;oldpath&#39;, &#39;newpath&#39;]</text>
 <text text-anchor="middle" x="173" y="-29.1" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:82</text>
-<text text-anchor="middle" x="173" y="-20.1" font-family="Helvetica,sans-Serif" font-size="8.00">arg_values:[&#39;/home/arthur/ProvMark/stage/test.txt&#39;, &#39;/home/arthur/ProvMark/stage/symlink&#45;test.txt&#39;]</text>
+<text text-anchor="middle" x="173" y="-20.1" font-family="Helvetica,sans-Serif" font-size="8.00">arg_values:[&#39;/home/vagrant/ProvMark/stage/test.txt&#39;, &#39;/home/vagrant/ProvMark/stage/symlink&#45;test.txt&#39;]</text>
 <text text-anchor="middle" x="173" y="-11.1" font-family="Helvetica,sans-Serif" font-size="8.00">fn:symlink</text>
 <text text-anchor="middle" x="173" y="-2.1" font-family="Helvetica,sans-Serif" font-size="8.00">type:5</text>
 </g>
 <!-- n82 -->
 <g id="node2" class="node"><title>n82</title>
 <polygon fill="#cae1ff" stroke="black" points="1044,-49 854,-49 854,-13 1044,-13 1044,-49"/>
-<text text-anchor="middle" x="949" y="-33.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/arthur/ProvMark/stage/symlink&#45;test.txt&#39;]</text>
+<text text-anchor="middle" x="949" y="-33.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/vagrant/ProvMark/stage/symlink&#45;test.txt&#39;]</text>
 <text text-anchor="middle" x="949" y="-24.6" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:80</text>
 <text text-anchor="middle" x="949" y="-15.6" font-family="Helvetica,sans-Serif" font-size="8.00">type:2</text>
 </g>
 <!-- n81 -->
 <g id="node4" class="node"><title>n81</title>
 <polygon fill="#cae1ff" stroke="black" points="766,-49 576,-49 576,-13 766,-13 766,-49"/>
-<text text-anchor="middle" x="671" y="-33.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/arthur/ProvMark/stage/symlink&#45;test.txt&#39;]</text>
+<text text-anchor="middle" x="671" y="-33.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/vagrant/ProvMark/stage/symlink&#45;test.txt&#39;]</text>
 <text text-anchor="middle" x="671" y="-24.6" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:79</text>
 <text text-anchor="middle" x="671" y="-15.6" font-family="Helvetica,sans-Serif" font-size="8.00">type:2</text>
 </g>

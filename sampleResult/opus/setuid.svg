@@ -25,7 +25,7 @@
 <!-- n81 -->
 <g id="node3" class="node"><title>n81</title>
 <polygon fill="#cae1ff" stroke="black" points="71.5,-125.5 0.5,-125.5 0.5,-62.5 71.5,-62.5 71.5,-125.5"/>
-<text text-anchor="middle" x="36" y="-110.1" font-family="Helvetica,sans-Serif" font-size="8.00">arg_values:[&#39;arthur&#39;]</text>
+<text text-anchor="middle" x="36" y="-110.1" font-family="Helvetica,sans-Serif" font-size="8.00">arg_values:[&#39;vagrant&#39;]</text>
 <text text-anchor="middle" x="36" y="-101.1" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:79</text>
 <text text-anchor="middle" x="36" y="-92.1" font-family="Helvetica,sans-Serif" font-size="8.00">ret:0</text>
 <text text-anchor="middle" x="36" y="-83.1" font-family="Helvetica,sans-Serif" font-size="8.00">fn:setuid</text>
@@ -43,7 +43,7 @@
 <g id="node4" class="node"><title>n80</title>
 <polygon fill="#cae1ff" stroke="black" points="214,-40 160,-40 160,-4 214,-4 214,-40"/>
 <text text-anchor="middle" x="187" y="-24.6" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:78</text>
-<text text-anchor="middle" x="187" y="-15.6" font-family="Helvetica,sans-Serif" font-size="8.00">value:arthur</text>
+<text text-anchor="middle" x="187" y="-15.6" font-family="Helvetica,sans-Serif" font-size="8.00">value:vagrant</text>
 <text text-anchor="middle" x="187" y="-6.6" font-family="Helvetica,sans-Serif" font-size="8.00">type:1</text>
 </g>
 <!-- n80&#45;&gt;n10 -->

@@ -14,7 +14,7 @@
 <polygon fill="#cae1ff" stroke="black" points="182.5,-1737.5 47.5,-1737.5 47.5,-1692.5 182.5,-1692.5 182.5,-1737.5"/>
 <text text-anchor="middle" x="115" y="-1722.1" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:83</text>
 <text text-anchor="middle" x="115" y="-1713.1" font-family="Helvetica,sans-Serif" font-size="8.00">name:cwd</text>
-<text text-anchor="middle" x="115" y="-1704.1" font-family="Helvetica,sans-Serif" font-size="8.00">value:/home/arthur/ProvMark/working</text>
+<text text-anchor="middle" x="115" y="-1704.1" font-family="Helvetica,sans-Serif" font-size="8.00">value:/home/vagrant/ProvMark/working</text>
 <text text-anchor="middle" x="115" y="-1695.1" font-family="Helvetica,sans-Serif" font-size="8.00">type:1</text>
 </g>
 <!-- n100 -->
@@ -352,7 +352,7 @@
 <polygon fill="#cae1ff" stroke="black" points="156,-351.5 74,-351.5 74,-306.5 156,-306.5 156,-351.5"/>
 <text text-anchor="middle" x="115" y="-336.1" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:88</text>
 <text text-anchor="middle" x="115" y="-327.1" font-family="Helvetica,sans-Serif" font-size="8.00">name:nodename</text>
-<text text-anchor="middle" x="115" y="-318.1" font-family="Helvetica,sans-Serif" font-size="8.00">value:arthur&#45;VirtualBox</text>
+<text text-anchor="middle" x="115" y="-318.1" font-family="Helvetica,sans-Serif" font-size="8.00">value:vagrant&#45;VirtualBox</text>
 <text text-anchor="middle" x="115" y="-309.1" font-family="Helvetica,sans-Serif" font-size="8.00">type:1</text>
 </g>
 <!-- n80&#45;&gt;n90 -->
@@ -453,14 +453,14 @@
 <g id="node16" class="node"><title>n83</title>
 <polygon fill="#cae1ff" stroke="black" points="993.5,-971 842.5,-971 842.5,-935 993.5,-935 993.5,-971"/>
 <text text-anchor="middle" x="918" y="-955.6" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:81</text>
-<text text-anchor="middle" x="918" y="-946.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/arthur/ProvMark/stage/test&#39;]</text>
+<text text-anchor="middle" x="918" y="-946.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/vagrant/ProvMark/stage/test&#39;]</text>
 <text text-anchor="middle" x="918" y="-937.6" font-family="Helvetica,sans-Serif" font-size="8.00">type:2</text>
 </g>
 <!-- n82 -->
 <g id="node36" class="node"><title>n82</title>
 <polygon fill="#cae1ff" stroke="black" points="753.5,-971 602.5,-971 602.5,-935 753.5,-935 753.5,-971"/>
 <text text-anchor="middle" x="678" y="-955.6" font-family="Helvetica,sans-Serif" font-size="8.00">node_id:80</text>
-<text text-anchor="middle" x="678" y="-946.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/arthur/ProvMark/stage/test&#39;]</text>
+<text text-anchor="middle" x="678" y="-946.6" font-family="Helvetica,sans-Serif" font-size="8.00">name:[&#39;/home/vagrant/ProvMark/stage/test&#39;]</text>
 <text text-anchor="middle" x="678" y="-937.6" font-family="Helvetica,sans-Serif" font-size="8.00">type:2</text>
 </g>
 <!-- n83&#45;&gt;n82 -->
